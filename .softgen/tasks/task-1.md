@@ -1,6 +1,6 @@
 ---
 title: Landing page
-status: in_progress
+status: done
 priority: urgent
 type: feature
 tags: [landing, design-system]
