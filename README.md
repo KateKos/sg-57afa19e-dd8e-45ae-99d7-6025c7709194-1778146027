@@ -1,1 +1,1 @@
-# Your Softgen App
+# Your Magical Softgen App
